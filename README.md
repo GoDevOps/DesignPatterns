@@ -6,16 +6,16 @@ This is a collection of known design patterns to adopt DevOps. They are based on
 
 The patterns can be structured in roughly three different categories. Please click on the [:notebook:](http://en.wikipedia.org/wiki/Software_design_pattern) for a full explanation of what design patterns are on Wikipedia.
 
-### [Codification](Codification)
+### 1.[Codification](Codification)
 * [Continuous Delivery Pipeline](Codification/ContinuousDeliveryPipeline)
 
-### [Collaboration](Collaboration)
+### 2.[Collaboration](Collaboration)
 * [ChatOps](Collaboration/ChatOps)
 
-### [Automation](Automation)
+### 3.[Automation](Automation)
 
 
-### [More](More)
+### 4.[More](More)
 
 
 ## Contribute
